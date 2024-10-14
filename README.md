@@ -1,2 +1,1 @@
-# formation_git
-Formation Git
+Quelques scripts python sans grand intérêt.
