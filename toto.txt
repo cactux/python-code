@@ -1,4 +1,3 @@
-coucou
 droite
 gauche
 gauche2
