@@ -1,3 +1,7 @@
 droite
 gauche
 gauche2
+
+=== paragraphe ===
+ligne 1
+
