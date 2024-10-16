@@ -31,17 +31,17 @@ vies_joueur = vies_ennemi = 50
 nb_potions = 3
 
 while vies_joueur > 0:
-    print(f"Il vous reste {vies} essais.")
+    print(f"Il vous reste {vies_joueur} essais.")
     essai = input("Entrez un nombre : ")
     if essai.isdigit():
         essai = int(essai)
-        vies -= 1
+        vies_joueur -= 1
         if essai == nombre:
             print("Vous avez trouvé bravo !")
-            vies = 0
-        elif essai < nombre and vies > 0:
+            vies_joueur = 0
+        elif essai < nombre and vies_joueur > 0:
             print("Trop petit, essaie plus grand")
-        elif essai > nombre and vies > 0:
+        elif essai > nombre and vies_joueur > 0:
             print("Trop grand, essaie plus petit")
         else:
             print(f"Perdu, le nombre était {nombre}")
