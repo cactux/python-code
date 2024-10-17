@@ -1,3 +1,4 @@
+# https://www.docstring.fr/glossaire/dictionnaire/?utm_source=udemy&utm_campaign=dictionnaire-glossary
 from pathlib import Path
 
 # Init :
