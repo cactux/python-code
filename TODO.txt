@@ -1,0 +1,7 @@
+Packages à tester :
+- https://pypi.org/project/freegames/
+
+Liens à visiter / vidéos à voir :
+- https://www.youtube.com/watch?v=skcTGedldGw : faire parler l'API kanye REST
+
+

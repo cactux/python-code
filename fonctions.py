@@ -5,3 +5,6 @@ def affiche():
     print(a)
 
 affiche()
+
+if a != 10:
+    print(a)
